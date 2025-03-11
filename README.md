@@ -15,6 +15,8 @@ of the physical parameters for all of the models shown.
 
 All models were run using Python V88, commit [#4277688](https://github.com/agnwinds/python/tree/4277688729ccadc43eaf49bc7f05142a6b3c355c).
 
+Plots were created using [PySi](https://github.com/saultyevil/pysi).
+
 ## Contact
 
 If anything is unclear or broken, please contact me. My contact details can be
